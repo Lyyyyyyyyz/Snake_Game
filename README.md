@@ -4,9 +4,7 @@ CS61C Project: Creating a Snake Game (snek)
 A snake game can be represented by a grid of characters. The grid contains walls, fruits, and one or more snakes. 
 The grid has the following special characters:
 
-// denotes a wall.
-(space character) denotes an empty space.
-* denotes a fruit.
+// denotes a wall. (space character) denotes an empty space. * denotes a fruit.
 wasd denotes the tail of a snake.
 ^<v> denotes the body of a snake.
 WASD denotes the head of a snake.
